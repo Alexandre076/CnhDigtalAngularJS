@@ -4,7 +4,7 @@ Atividade para solution sprint da fase 4 - Microserviços
 MBA FULL STACK DEVELOPMENT - DESIGN, ENGINEERING & DEPLOYMENT
 
 Etapa 1 - Front end AngularJS
-Source code: https://github.com/Alexandre076/cnhDigitalAngular.git
+Source code: https://github.com/Alexandre076/CnhDigtalAngularJS.git
 
 Etapa 2 
 Backend: Spring + Mysql
